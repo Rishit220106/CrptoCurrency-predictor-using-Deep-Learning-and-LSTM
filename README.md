@@ -8,8 +8,6 @@ Software codes and information are shared with you as open source code free of c
 
 Happy learning!
 
-Emirhan BULUT
-
 Senior Artificial Intelligence Engineer & Inventor
 
 
@@ -32,21 +30,3 @@ Senior Artificial Intelligence Engineer & Inventor
 <img class="fit-picture"
      src="https://raw.githubusercontent.com/emirhanai/Cryptocurrency-Prediction-with-Artificial-Intelligence/main/XRP-1%20-%20PREDICTION.png"
      alt="Cryptocurrency Prediction with Artificial Intelligence (Deep Learning via LSTM Neural Networks)- Emirhan BULUT">
-     
-### **Developer Information:**
-
-Name-Surname: **Emirhan BULUT**
-
-Contact (Email) : **emirhan@isap.solutions**
-
-LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
-
-[LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
-
-Kaggle: **[https://www.kaggle.com/emirhanai][Kaggle]**
-
-Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
-
-[Kaggle]: https://www.kaggle.com/emirhanai
-
-[OfficialWebSite]: https://www.emirhanbulut.com.tr
